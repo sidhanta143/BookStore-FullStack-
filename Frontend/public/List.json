@@ -1,0 +1,101 @@
+
+[
+    
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":" Lorem ipsum   Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus pariatur iste asperiores fugit error ut ipsam quia ratio  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus pariatur iste asperiores fugit error ut ipsam quia ratione temporibus veritatis.ne temporibus veritatis. dolor sit amet, consectetur adipisicing elit. Ab magni deserunt accusamus inventore natus voluptas aliquam laboriosam consectetur, qui libero?",
+        "price":0,
+        "catagory":"Free",
+        "img":"https://img.freepik.com/free-vector/flat-background-template-world-book-day-celebration_23-2150213735.jpg?t=st=1770131212~exp=1770134812~hmac=ef8d28c8c31cd5a87d6a00c69b588ceef1d2f92a67ad0223c393dee0021f059b"
+    },
+    {
+        "id":2,
+        "name":"Comedy Book",
+        "title":"The  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab magni deserunt accusamus inventore natus voluptas aliquam laboriosam consectetur, qui libero? Alchemist",
+        "price":0,
+        "catagory":"Free",
+        "img":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1769928294~exp=1769931894~hmac=0a3693d8a5d1c00aa3514dc6e8f80628f87ece0726a00856e34b24382554a603"
+    },
+    {
+        "id":3,
+        "name":"Musics Book",
+        "title":"The Alchemist  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab magni deserunt accusamus inventore natus voluptas aliquam laboriosam consectetur, qui libero?",
+        "price":0,
+        "catagory":"Free",
+        "img":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1769928294~exp=1769931894~hmac=0a3693d8a5d1c00aa3514dc6e8f80628f87ece0726a00856e34b24382554a603"
+    },
+    {
+        "id":4 ,
+        "name":"Science Book",
+        "title":"The Alchemist  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab magni deserunt accusamus inventore natus voluptas aliquam laboriosam consectetur, qui libero?",
+        "price":20,
+        "catagory":"paid",
+        "img":"https://img.freepik.com/free-vector/hand-drawn-flat-design-poetry-illustration_23-2149279810.jpg?t=st=1770131026~exp=1770134626~hmac=e02a23792d9b56201bbdb9b74c584754a89f41638059c54c622c048c5cf8a363"
+    },
+    {
+        "id":5,
+        "name":"History Book",
+        "title":"The Alchemist  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab magni deserunt accusamus inventore natus voluptas aliquam laboriosam consectetur, qui libero?",
+        "price":30,
+        "catagory":"paid",
+        "img":"https://img.freepik.com/free-vector/hand-drawn-flat-design-poetry-illustration_23-2149279810.jpg?t=st=1770131026~exp=1770134626~hmac=e02a23792d9b56201bbdb9b74c584754a89f41638059c54c622c048c5cf8a363"
+    },
+    {
+        "id":6,
+        "name":"Art Book",
+        "title":"The Alchemist  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab magni deserunt accusamus inventore natus voluptas aliquam laboriosam consectetur, qui libero?",
+        "price":0,
+        "catagory":"Free",
+        "img":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1769928294~exp=1769931894~hmac=0a3693d8a5d1c00aa3514dc6e8f80628f87ece0726a00856e34b24382554a603"
+    },
+    {
+        "id":7,
+        "name":"Biography Book",
+        "title":"The Alchemis  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab magni deserunt accusamus inventore natus voluptas aliquam laboriosam consectetur, qui libero?t",
+        "price":0,
+        "catagory":"Free",
+        "img":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1769928294~exp=1769931894~hmac=0a3693d8a5d1c00aa3514dc6e8f80628f87ece0726a00856e34b24382554a603"
+    },
+    {
+        "id":8,
+        "name":"Biography Book",
+        "title":"The  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab magni deserunt accusamus inventore natus voluptas aliquam laboriosam consectetur, qui libero? Alchemist",
+        "price":0,
+        "catagory":"Free    ",
+        "img":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1769928294~exp=1769931894~hmac=0a3693d8a5d1c00aa3514dc6e8f80628f87ece0726a00856e34b24382554a603"
+    },
+    {
+        "id":9,
+        "name":"History Book",
+        "title":"The  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab magni deserunt accusamus inventore natus voluptas aliquam laboriosam consectetur, qui libero?Alchemist",
+        "price":0,
+        "catagory":"Free",
+        "img":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1769928294~exp=1769931894~hmac=0a3693d8a5d1c00aa3514dc6e8f80628f87ece0726a00856e34b24382554a603"
+    },
+    {
+        "id":10,
+        "name":"Mathematics Book",
+        "title":"The Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab magni deserunt accusamus inventore natus voluptas aliquam laboriosam consectetur, qui libero? Alchemist",
+        "price":25,
+        "catagory":"paid",
+        "img":"https://img.freepik.com/free-vector/hand-drawn-flat-design-poetry-illustration_23-2149279810.jpg?t=st=1770131026~exp=1770134626~hmac=e02a23792d9b56201bbdb9b74c584754a89f41638059c54c622c048c5cf8a363"
+    },
+    {
+        "id":11,
+        "name":"English Book",
+        "title":"The  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab magni deserunt accusamus inventore natus voluptas aliquam laboriosam consectetur, qui libero? Alchemist",
+        "price":10,
+        "catagory":"paid",
+        "img":"https://img.freepik.com/free-vector/hand-drawn-flat-design-poetry-illustration_23-2149279810.jpg?t=st=1770131026~exp=1770134626~hmac=e02a23792d9b56201bbdb9b74c584754a89f41638059c54c622c048c5cf8a363"
+    },
+    {
+        "id":12,
+        "name":"Physics Book",
+        "title":"The  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab magni deserunt accusamus inventore natus voluptas aliquam laboriosam consectetur, qui libero? Alchemist",
+        "price":0,
+        "catagory":"Free",
+        "img":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1769928294~exp=1769931894~hmac=0a3693d8a5d1c00aa3514dc6e8f80628f87ece0726a00856e34b24382554a603"
+    }
+    
+]
