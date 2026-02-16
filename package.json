@@ -1,0 +1,28 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/sidhanta143/BookStore-FullStack-#readme",
+  "bugs": {
+    "url": "https://github.com/sidhanta143/BookStore-FullStack-/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sidhanta143/BookStore-FullStack-.git"
+  },
+  "license": "ISC",
+  "author": "Sidhanta",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.jsx",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "mongoos": "^0.0.1-security",
+    "nodemon": "^3.1.11"
+  }
+}
